@@ -20,6 +20,9 @@ AUTHOR:
 
 LICENSE:
     This script follow MIT license.
+   
+NOTE:
+	The dstdir must not locate in srcdir.
 
 EXAMPLE:
     ./ios-resource-3x2x1x.sh ~/input ~/output
