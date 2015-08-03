@@ -71,6 +71,9 @@ AUTHOR:
 LICENSE:
     This script follow MIT license.
 
+NOTE:
+    The dstdir must not locate in srcdir.
+
 EXAMPLE:
     $0 ~/input ~/output
 EOF
