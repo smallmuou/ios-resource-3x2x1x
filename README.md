@@ -34,7 +34,7 @@ EXAMPLE:
 
 2. Clone And Chmod
 	<pre>
-	git clone https://github.com/smallmuou/ios-resource-3x2x1x.sh
+	git clone https://github.com/smallmuou/ios-resource-3x2x1x
 	cd ios-resource-3x2x1x.sh
 	chmod 777 ios-resource-3x2x1x.sh.sh
 	</pre>
