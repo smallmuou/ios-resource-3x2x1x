@@ -112,9 +112,10 @@ mkdir -p "$DST_PATH_1X"
 function scan_and_scale() {
     local workdir
     workdir=$1
-    for file in $(ls ${SRC_PATH})
+    for file in $(ls ${workdir})
     do
-        local path=$workdir/$file
+        local path
+        path=$workdir/$file
         if test -d $path;then
             scan_and_scale $path
         else
