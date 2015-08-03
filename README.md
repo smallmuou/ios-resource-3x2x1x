@@ -48,7 +48,7 @@ StarnetdeMacBook-Pro:ios-icon-generator starnet$ ./ios-resource-3x2x1x.sh ~/Down
 [INFO] /Users/starnet/Downloads/output/2X/2@2x.jpg ...
 [INFO] /Users/starnet/Downloads/output/1X/2.jpg ...
 [INFO] Done</pre>
-PS: You can find out the icons in ~/Download/output directory.
+PS: You can find out all resource in ~/Download/output directory.
 	
 ### History
 * 1.0.0
