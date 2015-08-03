@@ -2,6 +2,7 @@
 
 ### Description
 ios-resource-3x2x1x is a shell script which aim to convert 3x resource to 2x and 1x simply.
+![image](https://github.com/smallmuou/ios-resource-3x2x1x/blob/master/ios-resource-3x2x1x.gif)
 <pre>
 VERSION: 1.0.0
 USAGE: ./ios-resource-3x2x1x.sh srcdir dstdir
