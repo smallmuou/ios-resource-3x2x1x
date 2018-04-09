@@ -43,7 +43,7 @@ EXAMPLE:
 	chmod 777 ios-resource-3x2x1x.sh.sh
 	</pre>
 3. Run
-	<pre>
+```
 StarnetdeMacBook-Pro:ios-icon-generator starnet$ ./ios-resource-3x2x1x.sh ~/Downloads/input ~/Dowload/output
 [INFO] mkdir /Users/starnet/Downloads/output/2X ...
 [INFO] mkdir /Users/starnet/Downloads/output/1X ...
@@ -51,7 +51,8 @@ StarnetdeMacBook-Pro:ios-icon-generator starnet$ ./ios-resource-3x2x1x.sh ~/Down
 [INFO] /Users/starnet/Downloads/output/1X/1.jpg ...
 [INFO] /Users/starnet/Downloads/output/2X/2@2x.jpg ...
 [INFO] /Users/starnet/Downloads/output/1X/2.jpg ...
-[INFO] Done</pre>
+[INFO] Done
+```
 PS: You can find out all resource in ~/Download/output directory.
 	
 ### History
