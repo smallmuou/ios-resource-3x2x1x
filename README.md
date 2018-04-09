@@ -33,15 +33,19 @@ EXAMPLE:
 1. Install ImageMagick
 	
 	Before you run this script, please check whether you had install ImageMagick. If you don't have install. Follow this:
-	<pre>
-	sudo brew install ImageMagick</pre>
+
+```
+    sudo brew install ImageMagick</pre>
+```
 
 2. Clone And Chmod
-	<pre>
+
+```
 	git clone https://github.com/smallmuou/ios-resource-3x2x1x
 	cd ios-resource-3x2x1x.sh
 	chmod 777 ios-resource-3x2x1x.sh.sh
-	</pre>
+```
+
 3. Run
 ```
 StarnetdeMacBook-Pro:ios-icon-generator starnet$ ./ios-resource-3x2x1x.sh ~/Downloads/input ~/Dowload/output
